@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&family=Bytesized&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bonheur+Royale&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bonheur+Royale&family=Goldman:wght@400;700&family=Pirata+One&display=swap');
 
@@ -44,7 +44,8 @@ nav ul {
 }
 
 nav ul li:first-child {
-  font-family: "Beau Rivage", cursive;
+  font-family: "Bytesized", sans-serif;
+    font-weight: 600;
 }
 
 nav ul li,
